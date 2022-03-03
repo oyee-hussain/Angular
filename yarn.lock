@@ -10366,6 +10366,13 @@ magic-string@0.25.7, magic-string@^0.25.7:
   dependencies:
     sourcemap-codec "^1.4.4"
 
+magic-string@0.26.0:
+  version "0.26.0"
+  resolved "https://registry.yarnpkg.com/magic-string/-/magic-string-0.26.0.tgz#3b7027a9b44c12987d8af177872765369d8d4da6"
+  integrity sha512-TK1tGYBWlWzWabm3Lr3w1nb2GcN5ShN23jRIAsHOdc00ZffX90QPwQOALki3F+EnI40BoiZwlb4K2jMM5z3Xpg==
+  dependencies:
+    sourcemap-codec "^1.4.8"
+
 make-dir@^1.0.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/make-dir/-/make-dir-1.3.0.tgz#79c1033b80515bd6d24ec9933e860ca75ee27f0c"
